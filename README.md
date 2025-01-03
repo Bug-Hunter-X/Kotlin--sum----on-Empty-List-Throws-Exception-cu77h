@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Kotlin related to the `sum()` function. When called on an empty list, it throws an exception instead of returning 0. This example shows the problem and provides a robust solution. The bug is in `bug.kt`, and the corrected code is in `bugSolution.kt`.
